@@ -22,11 +22,17 @@ The Project Pipeline
 **Step 1:** Read input image/Frame
 
 **Step 2:** Convert to grayscale image
+
 **Step 3:** blur/smooth out image with Gaussian Blurring function
+
 **Step 4:** Apply Canny for edge finder
+
 **Step 5:** Detect lines in the Canny image with Hough Transform
+
 **Step 6:** Infer Lanes using the slope and intercept from the lines
+
 **Step 7:** Cut out only the area of interest since there may be multiple lines in the image
+
 **Step 8:** Draw and overlay lines on orignal image
 
 
