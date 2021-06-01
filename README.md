@@ -10,7 +10,9 @@ We use our eyes to determine where to go while driving. The lines on the road th
 
 Using Python and OpenCV, I will recognize lane lines in images and videos for this project. The term "Open-Source Computer Vision" refers to a software package that includes a number of helpful tools for evaluating images and addressing computer vision challenges.
 
-Result output will look similar to this image below 
+Result output will look similar to this image below:
+
+
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 
