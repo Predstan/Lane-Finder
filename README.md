@@ -1,7 +1,7 @@
 # **Finding Lane Lines on the Road** 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
+
 
 Overview
 ---
@@ -11,8 +11,7 @@ We use our eyes to determine where to go while driving. The lines on the road th
 Using Python and OpenCV, I will recognize lane lines in images and videos for this project. The term "Open-Source Computer Vision" refers to a software package that includes a number of helpful tools for evaluating images and addressing computer vision challenges.
 
 Result output will look similar to this image below 
-
-![Screenshot](test_images/solidWhiteRight.jpg)
+<img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 
 The Project
